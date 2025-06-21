@@ -3,7 +3,7 @@
 
 **What is this script?**
 
-[Clinker](https://github.com/xiezhq/ISEScan#isescan--) is a my favorite tool for synteny visualization and gnemic data showing. However, for gene annotation, it is a bit complicated in comparison PYFig. this a script is a workaround to overcome this.
+[Clinker](https://github.com/gamcil/clinker) is a my favorite tool for synteny visualization and gnemic data showing. However, for gene annotation, it is a bit complicated in comparison PYFig. this a script is a workaround to overcome this.
 
 
 **What do you need?**
