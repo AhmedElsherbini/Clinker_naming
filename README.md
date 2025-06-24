@@ -19,7 +19,7 @@ for d in *.gbk ; do  f=$(echo $d | sed -E "s/\.gbk*//") ; python clinker_naming.
 Let's do the simple Clinker command line
 
 ```bash
-clinker *_named.gnk -p file.html
+clinker *_named.gbk -p file.html
 ```
 
 **Well, what is the heck here?**
