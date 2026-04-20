@@ -1,9 +1,9 @@
 # Clinker_naming
-**Kindly if you find this repo useful for your work, cite & star this repo**
+**Kindly, if you find this repo useful for your work, cite & star this repo**
 
 **What is this script?**
 
-[Clinker](https://github.com/gamcil/clinker) is a my favorite tool for synteny visualization and genemic data showing. However, for gene annotation, it is a bit complicated in comparison Easyfig. This is a script that is a workaround to overcome this.
+[Clinker](https://github.com/gamcil/clinker) is my favorite tool for synteny visualization and genomic data showing. However, for gene annotation, it is a bit complicated in comparison Easyfig. This is a script that is a workaround to overcome this.
 
 
 **What do you need?**
