@@ -28,7 +28,7 @@ Any GenBank file has a conserved sentence among all bacterial GenBank files, whi
 
 Well, we simply substitute the trans_table with *, and then all genes will have a conserved value of * at the transl_table in the HTML file.
 
-Then, you have to open the HTML file 
+Then, you have to open the HTML file and enjoy working.
 
 
 
